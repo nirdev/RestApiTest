@@ -35,6 +35,7 @@ return y;
         else {
             System.out.println("Please Enter number between 1-3");
         }
+        //fix nir review
 return y2;
     }
     public static String Chooseoption3(int x){
